@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michal Moudrý</h1>
 <h3 align="center">IT Student (@fisvse) - Tech enthusiast - C# programmer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michalmoudry" alt="michalmoudry" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michalmoudry&theme=juicyfresh" alt="michalmoudry" /></a> </p>
 
 - 🔭 I’m currently working on [Form Capture Local](https://github.com/MichalMoudry/formcapture-local)
 
