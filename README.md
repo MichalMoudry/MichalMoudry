@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Form Capture Local](https://github.com/MichalMoudry/formcapture-local)
 
-- 👨‍💻 All of my projects are available at [https://github.com/MichalMoudry?tab=repositories](https://github.com/MichalMoudry?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/MichalMoudry?tab=repositories)
 
 - 📄 Know about my experiences [https://michalmoudry.github.io/](https://michalmoudry.github.io/)
 
