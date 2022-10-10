@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michal Moudrý</h1>
-<h3 align="center">IT Student (FIS VŠE) - Tech enthusiast - C# programmer</h3>
+<h3 align="center">IT Student (FIS VŠE) - .NET developer</h3>
 
 - 🔭 I’m currently working on [Form Capture Local](https://github.com/MichalMoudry/formcapture-local)
-
-- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/MichalMoudry?tab=repositories)
-
-- 📄 Know about my experiences [https://michalmoudry.github.io/](https://michalmoudry.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
